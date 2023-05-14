@@ -173,18 +173,18 @@
     background-color: #efeff3;
   }
   
-  .price {
+  .pricefinal {
     position: relative;
     font-size: 22px;
     color: #2B2B2F;
     font-weight: 900;
   }
   
-  .price sup {
+  .pricefinal sup {
     font-size: 13px;
   }
   
-  .price sub {
+  .pricefinal sub {
     width: fit-content;
     position: absolute;
     font-size: 11px;
@@ -211,5 +211,8 @@
     transition: all 0.3s cubic-bezier(0.15, 0.83, 0.66, 1);
   }
 
-
+.fa-trash{
+  margin-top: 0.2rem;
+  margin-left: 1rem;
+}
 
